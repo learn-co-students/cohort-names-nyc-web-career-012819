@@ -3,7 +3,8 @@
 
 |  Cohort           | Name                            |
 | ----------------- | ------------------------------- |
-| DC DS 111819      | $tryna_git_arrays$
+| NYC DS 111819     | matplotlibertytours |
+| DC DS 111819      | $tryna_git_arrays$ |
 | Chicago SE 111819 | .splice girls |
 | DC Web 102819 | \|dreams\| 
 | Dumbo Web 102819  | Git Push Myself |
